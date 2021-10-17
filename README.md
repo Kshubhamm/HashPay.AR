@@ -1,4 +1,4 @@
-# PayHash.AR
+# PayZap.AR
 
 ### Steps to run 
 - Change directory to flask app: cd /flask-app
